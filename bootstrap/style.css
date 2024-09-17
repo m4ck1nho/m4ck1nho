@@ -1,0 +1,55 @@
+.navbar-bg{
+    background-color: rgb(32, 22, 88);
+}
+
+.body{
+    background-color:rgb(152, 171, 238) ;
+}
+
+.cizgi{
+    border: 5px solid  rgb(255, 255, 255);
+}
+
+.ara{
+    border: 2px solid #FFFF;
+    transition: 1s;
+}
+
+
+
+.banner{
+    border:3px;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+    background-color: #FFFF;
+    color:rgb(152, 171, 238);
+
+}
+.banner:hover{
+    color:  #FFFF;
+    background-color:rgb(152, 171, 238);
+    transition: 1s;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #2F8F9D;
+  }
+  
+  a:hover {
+    color:  #FFFF;
+    background-color:rgb(152, 171, 238);
+    transition: 1s;
+  }
+  
+  a:active {
+    text-decoration: none;
+    color: #2F8F9D;
+  }
+
+  a:link {
+    text-decoration: none;
+    color: #2F8F9D;
+
+  }
