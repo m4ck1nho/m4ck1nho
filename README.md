@@ -1,6 +1,6 @@
 ## Hi there 👋 ##
 
-Aspiring Web Developer sharing projects and learning progress.
+ Web Developer sharing projects and learning progress.
 JavaScript | React | Node.js | PostgreSQL
 📩 gkdnzkrks@gmail.com
 
