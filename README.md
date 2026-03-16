@@ -9,7 +9,7 @@
  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝
 ```
 
-### Full-Stack Web · Serverless Architecture · Automation Engineering
+### Full-Stack Web · System Design · Automation Engineering
 
 *I build production-grade tools that actually ship — from scraping pipelines and PDF engines to real-time dashboards.*
 
