@@ -57,19 +57,28 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4ck1nho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ck1nho&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4ck1nho&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
 
 </div>
 
 ---
 
+## 🚀 Currently Building
+
+| Project | What it does | Stack |
+|---|---|---|
+| **MarineNanoTechStudio** | Enterprise PDF generation & sales workflow platform | Next.js, Puppeteer, Supabase, Docker |
+| **Sales Tracker** | Real-time CRM analytics dashboard with Gmail OAuth | React 19, Cloudflare Workers, Web Crypto API |
+| **Project Tracker** | Marine engineering logistics & financial forecasting | React 18, TanStack Query, Recharts |
+
+> Most of my work lives in private repos — feel free to reach out or check my [portfolio](https://m4ck1nho.github.io/portfolio/) for details.
+
+---
+
 <div align="center">
 
-*Currently building @ [Marine NanoTech](https://marinenanotech.com) · Open to new opportunities*
+*Currently building @ Marine NanoTech · Open to new opportunities*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m4ck1nho&color=58a6ff&style=flat-square&label=profile+views)
 
