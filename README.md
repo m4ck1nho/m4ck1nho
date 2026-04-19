@@ -11,7 +11,7 @@
 
 ### Full-Stack Web · System Design · Automation Engineering
 
-*I build production-grade tools that actually ship 
+ I build production-grade tools that actually ship 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-m4ck1nho.github.io-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://m4ck1nho.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gkdnz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gkdnz)
