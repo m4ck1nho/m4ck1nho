@@ -41,16 +41,7 @@
 
 ---
 
-## 📊 Stats
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ck1nho&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-
-</div>
-
----
 
 ## 🚀 Currently Building
 
