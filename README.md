@@ -43,13 +43,7 @@
 
 
 
-## 🚀 Currently Building
 
-| Project | What it does | Stack |
-|---|---|---|
-| **MarineNanoTechStudio** | Enterprise PDF generation & sales workflow platform | Next.js, Puppeteer, Supabase, Docker |
-| **Sales Tracker** | Real-time CRM analytics dashboard with Gmail OAuth | React 19, Cloudflare Workers, Web Crypto API |
-| **Project Tracker** | Marine engineering logistics & financial forecasting | React 18, TanStack Query, Recharts |
 
 > Most of my work lives in private repos — feel free to reach out or check my [portfolio](https://m4ck1nho.github.io/portfolio/) for details.
 
