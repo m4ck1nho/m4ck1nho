@@ -45,7 +45,7 @@
 
 <div align="center">
 
-*Currently building @ Marine NanoTech · *
+· · Currently building @ Marine NanoTech · ·
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m4ck1nho&color=58a6ff&style=flat-square&label=profile+views)
 
