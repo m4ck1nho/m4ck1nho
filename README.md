@@ -39,13 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,aws)](https://skillicons.dev)
 
----
 
-
-
-
-
-> Most of my work lives in private repos — feel free to reach out or check my [portfolio](https://m4ck1nho.github.io/portfolio/) for details.
 
 ---
 
