@@ -37,7 +37,7 @@
 
 **DevOps & Infra**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,aws)](https://skillicons.dev)
 
 ---
 
